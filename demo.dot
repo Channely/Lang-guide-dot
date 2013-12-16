@@ -11,4 +11,7 @@ Server4 -- Server1
 Server5 -- Server4
 
 { rank=same; Server1 Server2 Server4 }
+
+bgcolor="#EEEEEE"
+
 }
